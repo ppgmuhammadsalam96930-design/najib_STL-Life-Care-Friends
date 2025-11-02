@@ -1,0 +1,24 @@
+PRIVATE — INSTRUKSI AKSES UNTUK PEMBELI
+STL – Life Care Friends
+
+Terima kasih telah membeli akses ke STL – Life Care Friends. Simpan informasi ini dengan aman.
+Jangan membagikan file ini secara publik.
+
+=== Akses Awal (Entry Code & Passphrase) ===
+Kode Layer Awal (Entry Code): 27092004
+Password Awal (Passphrase pertama): 20061996najibsaja
+password API Key keamanan untuk injeksi API Key user : najibgantengbanget123
+
+Catatan:
+- Kode Layer Awal (27092004) digunakan sebagai pemeriksaan awal sebelum memasukkan passphrase.
+- Password Awal (20061996najibsaja) digunakan pada tahap verifikasi email (lapis 2) untuk membuka akses ke mainApp.
+- Setelah pelanggan melakukan aktivasi, Anda dapat meminta mereka mengganti passphrase melalui panel profil atau melalui backend.
+
+=== Cara Aman (untuk owner / admin) ===
+1. Jangan upload file ini ke repo publik. Berikan hanya kepada pembeli melalui email/halaman unduhan yang dilindungi.
+2. Simpan passphrase di server sebagai secret (contoh di Deta):
+   deta secrets add ADMIN_PASSPHRASE="20061996najibsaja"
+3. Backend harus memverifikasi passphrase menggunakan secret di server — frontend tidak boleh menyimpan passphrase secara permanen.
+
+=== Kontak jika bermasalah ===
+Email owner: (tambahkan email Anda di sini)

@@ -1,0 +1,5 @@
+Copyright © 2025 Muhammad Najib Wahidus Salam
+
+All rights reserved.
+This software and its contents are protected by Indonesian law (UU ITE).
+Unauthorized hacking, modification, distribution, or duplication of this project's HTML, CSS, or JavaScript for commercial use is strictly prohibited without written permission from the owner.
